@@ -1,3 +1,4 @@
 # Hey, I'm Jeff
 
-CAAM 37830 Student
+Website: jeffbraunmath.com
+Kaggle: kaggle.com/jeffreybraun
